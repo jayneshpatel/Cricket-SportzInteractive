@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D369DFFC-8BB7-40C8-B84D-914735242217"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB29AB18-47C2-437F-835B-0239E7264B43"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JayneshProject/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "fetchDataInBackground()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CB29AB18-47C2-437F-835B-0239E7264B43 - 1663a2d71a3bc8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in JayneshProject.ViewController.fetchDataInBackground() -&gt; ()"
+                  moduleName = "JayneshProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayneshpatel/Desktop/Projects/JayneshProject/JayneshProject/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1884">
+               </Location>
+               <Location
+                  uuid = "CB29AB18-47C2-437F-835B-0239E7264B43 - 1663a2d71a3bd49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in JayneshProject.ViewController.fetchDataInBackground() -&gt; ()"
+                  moduleName = "JayneshProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayneshpatel/Desktop/Projects/JayneshProject/JayneshProject/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "620">
+               </Location>
+               <Location
+                  uuid = "CB29AB18-47C2-437F-835B-0239E7264B43 - 1fa8ad8bf1ab04e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in JayneshProject.ViewController.fetchDataInBackground() -&gt; ()"
+                  moduleName = "JayneshProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayneshpatel/Desktop/Projects/Cricket/JayneshProject/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "704">
+               </Location>
+               <Location
+                  uuid = "CB29AB18-47C2-437F-835B-0239E7264B43 - d4c84600599bf46d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable () -&gt; () in JayneshProject.ViewController.fetchDataInBackground() -&gt; ()"
+                  moduleName = "JayneshProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jayneshpatel/Desktop/Projects/Cricket/JayneshProject/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
