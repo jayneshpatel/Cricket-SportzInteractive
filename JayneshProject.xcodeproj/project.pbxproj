@@ -72,9 +72,8 @@
 			children = (
 				C57BCF4E2AD134010097BB4B /* Model */,
 				C57BCF4F2AD1340F0097BB4B /* View */,
-				C57BCF5C2AD2B2C70097BB4B /* PlayerInfoCell */,
-				C57BCF512AD13BCB0097BB4B /* MatchHeaderCell */,
 				C57BCF502AD1341A0097BB4B /* Controller */,
+				C57BCF612AD3C83D0097BB4B /* TableViewCell */,
 				C57BCF3A2AD133D20097BB4B /* AppDelegate.swift */,
 				C57BCF3C2AD133D20097BB4B /* SceneDelegate.swift */,
 				C57BCF432AD133D30097BB4B /* Assets.xcassets */,
@@ -126,6 +125,15 @@
 				C57BCF5E2AD2B30E0097BB4B /* PlayerInfoCell.xib */,
 			);
 			path = PlayerInfoCell;
+			sourceTree = "<group>";
+		};
+		C57BCF612AD3C83D0097BB4B /* TableViewCell */ = {
+			isa = PBXGroup;
+			children = (
+				C57BCF512AD13BCB0097BB4B /* MatchHeaderCell */,
+				C57BCF5C2AD2B2C70097BB4B /* PlayerInfoCell */,
+			);
+			path = TableViewCell;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
